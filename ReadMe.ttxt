@@ -1,0 +1,4 @@
+To use this file you must do a couple things:
+
+1. Have the file (event_planner.py) in a suitable compiler such as vscode or anything that can run python with the libraries of pandas and os
+2. Once you run the file in the terminal it will prompt you to enter a number ofr which part of the app you would like to access, enter a number and it will tell you what to do from there

@@ -171,7 +171,7 @@ class makeMenus():
 
 class options():
     def option1(self):
-        choice = int(input("What would you like to do?\n Enter 1 for adding event information\n Enter 2 to be able to add invitees\n Enter 3 to make a folder\n Enter 4 to be able to Make a menu\n Enter 5 To EXIT\n "))
+        choice = int(input("What would you like to do?\n Enter 1 for adding event information\n Enter 2 to be able to add invitees\n Enter 3 to make a folder\n Enter 4 to be able to make a menu\n Enter 5 To EXIT\n "))
 
         if choice == 1:
             
